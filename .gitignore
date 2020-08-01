@@ -9,10 +9,10 @@ xcuserdata/
 *.xcscmblueprint
 *.xccheckout
 *.xcuserstate  
-project.xcworkspace  
+*.xcworkspace  
 xcuserdata  
 UserInterfaceState.xcuserstate  
-project.xcworkspace/  
+*.xcworkspace/  
 xcuserdata/  
 UserInterface.xcuserstate  
 
